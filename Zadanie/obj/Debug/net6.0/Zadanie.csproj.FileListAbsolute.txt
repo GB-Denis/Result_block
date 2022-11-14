@@ -1,0 +1,15 @@
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\bin\Debug\net6.0\Zadanie.exe
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\bin\Debug\net6.0\Zadanie.deps.json
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\bin\Debug\net6.0\Zadanie.runtimeconfig.json
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\bin\Debug\net6.0\Zadanie.dll
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\bin\Debug\net6.0\Zadanie.pdb
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\Zadanie.csproj.AssemblyReference.cache
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\Zadanie.AssemblyInfoInputs.cache
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\Zadanie.AssemblyInfo.cs
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\Zadanie.dll
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\refint\Zadanie.dll
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\Zadanie.pdb
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\Zadanie.genruntimeconfig.cache
+C:\Users\dfazy\Desktop\GB\GIT\Block results\Zadanie\obj\Debug\net6.0\ref\Zadanie.dll
